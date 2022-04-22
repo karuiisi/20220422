@@ -5,7 +5,10 @@
 何を書いても良いということで、むしろ何を書けばいいのか？どのあたりまで自分の情報をネットに公開できるか？を現在考え中です。
 
 ```markdown
-Syntax highlighted code block
+##**もくじ**
+
+1. プログラミングについて
+2. 趣味
 
 # Header 1
 # Header 2
@@ -14,8 +17,6 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
