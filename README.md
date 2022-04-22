@@ -1,12 +1,13 @@
-## 自己紹介webページ
+# 自己紹介webページ
 
-You can use the [editor on GitHub](https://github.com/karuiisi/20220422/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+こんにちは！学校でウェブページづくりを習っている者です。
+今回、授業にてVSCで自己紹介文を作って、GITで公開することになりました。
+何を書いても良いということで、むしろ何を書けばいいのか？どのあたりまで自分の情報をネットに公開できるか？を現在考え中です。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Markdown
+さて、何はともあれまずは自己紹介です。本名は一応この場では伏せますが、便宜上佐藤と名乗ることにします。
+私、佐藤は大阪の学生で現在プログラミングを習っています。
+どうしてプログラミングを習おうと思ったかというと、単純に
 
 ```markdown
 Syntax highlighted code block
