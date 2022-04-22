@@ -4,11 +4,6 @@
 今回、授業にてVSCで自己紹介文を作って、GITで公開することになりました。
 何を書いても良いということで、むしろ何を書けばいいのか？どのあたりまで自分の情報をネットに公開できるか？を現在考え中です。
 
-## Markdown
-さて、何はともあれまずは自己紹介です。本名は一応この場では伏せますが、便宜上佐藤と名乗ることにします。
-私、佐藤は大阪の学生で現在プログラミングを習っています。
-どうしてプログラミングを習おうと思ったかというと、単純に
-
 ```markdown
 Syntax highlighted code block
 
@@ -26,6 +21,15 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+## プログラミングについて
+さて、何はともあれまずは自己紹介です。本名は一応この場では伏せますが、便宜上佐藤と名乗ることにします。
+私、佐藤は大阪の学生で現在プログラミングを習っています。
+どうしてプログラミングを習おうと思ったかというと、単純に気になったからです。
+普段ネットサーフィンをしている時やネットを上手く活用しお金を稼いでいる人を見かけた時、広告でプログラミングやWEBデザインという単語をよく見かけるようになったなと感じた時など、気になるタイミングが沢山ありました。
+好奇心と、全く知らないのは今の時代を生きる上で怖く感じたので学んで見ようという流れになりました。
+
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
